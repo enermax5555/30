@@ -3,3 +3,5 @@
 */
 
 $primary: #0c4bfa;
+@use "sass:map";
+$widget-sizes: ("light": 500, "medium": 500)
