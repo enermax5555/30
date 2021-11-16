@@ -36,3 +36,5 @@ html {
     }
   }
 }
+@debug map.get($widget-sizes, "small");
+@debug map.get($widget-sizes, "large");
