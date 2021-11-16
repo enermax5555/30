@@ -4,7 +4,7 @@
 
 $primary: #0c4bfa;
 @use "sass:map";
-$widget-sizes: ("small": 300, "large": 500)
+$widget-sizes: ("small": 300, "large": 500);
 
 @debug map.get($widget-sizes, "small");
 @debug map.get($widget-sizes, "large");
